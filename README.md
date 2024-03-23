@@ -1,1 +1,2 @@
-# SERC-Emojis-Model
+Repository for the SERC team for setting up their model for identifying sentiment values of emojis in context.
+Will be using HuggingFace and Tensorflow.
